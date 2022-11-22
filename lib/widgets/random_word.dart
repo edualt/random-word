@@ -15,7 +15,12 @@ class _RandomWordWidgetState extends State<RandomWordWidget> {
       "Pokemon",
       "Mouse",
       "Galleta",
-      "Teclado"
+      "Teclado",
+      "Hola",
+      "Borrador",
+      "Espejo",
+      "Carro",
+      "Laptop"
     ];
   late String _word = _words[0];
   final Random _random = Random();
